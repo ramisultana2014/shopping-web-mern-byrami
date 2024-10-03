@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "white bags",
+    "price": 200,
+    "image": "bags-1.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 10,
+    "category": "bags"
+  },
+  {
+    "id": 2,
+    "title": "red bags",
+    "price": 400,
+    "image": "bags-2.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 20,
+    "category": "bags"
+  },
+  {
+    "id": 3,
+    "title": "blue bags",
+    "price": 500,
+    "image": "bags-3.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 30,
+    "category": "bags"
+  },
+  {
+    "id": 4,
+    "title": "brown bags",
+    "price": 100,
+    "image": "bags-4.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 40,
+    "category": "bags"
+  },
+  {
+    "id": 5,
+    "title": "modern bags",
+    "price": 200,
+    "image": "bags-5.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 50,
+    "category": "bags"
+  },
+  {
+    "id": 6,
+    "title": "lazer bags",
+    "price": 700,
+    "image": "bags-6.jpg",
+    "description": "Your perfect bag for everyday use",
+    "quantity": 60,
+    "category": "bags"
+  },
+  {
+    "id": 7,
+    "title": "beautiful colored summer dress",
+    "price": 50,
+    "image": "dress-1.jpg",
+    "description": "Your summer dress ",
+    "quantity": 20,
+    "category": "dress"
+  },
+  {
+    "id": 8,
+    "title": "beautiful white summer dress",
+    "price": 20,
+    "image": "dress-2.jpg",
+    "description": "Your summer dress ",
+    "quantity": 200,
+    "category": "dress"
+  },
+  {
+    "id": 9,
+    "title": "beautiful blue summer dress",
+    "price": 70,
+    "image": "dress-3.jpg",
+    "description": "Your summer dress ",
+    "quantity": 10,
+    "category": "dress"
+  },
+  {
+    "id": 10,
+    "title": "beautiful colored summer dress",
+    "price": 10,
+    "image": "dress-4.jpg",
+    "description": "Your summer dress ",
+    "quantity": 20,
+    "category": "dress"
+  },
+  {
+    "id": 11,
+    "title": "beautiful red colored summer dress",
+    "price": 25,
+    "image": "dress-5.jpg",
+    "description": "Your summer dress ",
+    "quantity": 20,
+    "category": "dress"
+  },
+  {
+    "id": 12,
+    "title": "beautiful black  dress",
+    "price": 75,
+    "image": "dress-6.jpg",
+    "description": "Your perfect  dress ",
+    "quantity": 200,
+    "category": "dress"
+  },
+  {
+    "id": 13,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-1.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 14,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-2.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 15,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-3.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 16,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-4.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 17,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-5.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 18,
+    "title": "nickles",
+    "price": 500,
+    "image": "gold-6.jpg",
+    "description": "be unique with gold",
+    "quantity": 2,
+    "category": "gold"
+  },
+  {
+    "id": 19,
+    "title": "high heel",
+    "price": 30,
+    "image": "heel-1.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  },
+  {
+    "id": 20,
+    "title": "high heel",
+    "price": 31,
+    "image": "heel-2.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  },
+  {
+    "id": 21,
+    "title": "high heel",
+    "price": 39,
+    "image": "heel-3.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  },
+  {
+    "id": 22,
+    "title": "high heel",
+    "price": 33,
+    "image": "heel-4.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  },
+  {
+    "id": 23,
+    "title": "high heel",
+    "price": 43,
+    "image": "heel-5.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  },
+  {
+    "id": 24,
+    "title": "high heel",
+    "price": 100,
+    "image": "heel-6.jpg",
+    "description": "Your perfect heel for everyday use",
+    "quantity": 10,
+    "category": "heel"
+  }
+]
